@@ -1,0 +1,62 @@
+Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: Ficheiro a abrir: Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: A obra 2 deve ser devolvida até ao dia 23.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: Requisitar obra: Operação inválida: O utente 2 não pode requisitar a obra 3. Violação da regra 4.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: A obra 2 deve ser devolvida até ao dia 29.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: A obra 3 deve ser devolvida até ao dia 36.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: A obra 7 deve ser devolvida até ao dia 29.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: Requisitar obra: Operação inválida: O utente 1 não pode requisitar a obra 8. Violação da regra 4.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: 
